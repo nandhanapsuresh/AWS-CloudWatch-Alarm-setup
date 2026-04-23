@@ -16,7 +16,7 @@ create a dashboard, and set up an alarm with SNS email notifications.
 (See `/screenshots` folder)
 
 ## Tools Used
-- AWS EC2 (t2.micro)
+- AWS EC2 (t3.micro)
 - AWS CloudWatch
 - AWS SNS
 - stress (Linux load testing tool)
